@@ -1,0 +1,151 @@
+player name,position,team,birthdate
+Stephen Curry,PG,Golden State Warriors,1988-03-14
+Damian Lillard,PG,Portland Trail Blazers,1990-07-05
+Chris Paul,PG,Los Angeles Clippers,1985-05-06
+Kyrie Irving,PG,Cleveland Cavaliers,1992-03-23
+Kyle Lowry,PG,Toronto Raptors,1986-03-25
+John Wall,PG,Washington Wizards,1990-09-06
+Ty Lawson,PG,Indiana Pacers,1987-11-03
+Kemba Walker,PG,Charlotte Hornets,1990-05-08
+Eric Bledsoe,PG,Phoenix Suns,1989-12-09
+Monta Ellis,PG,Indiana Pacers,1985-10-26
+Brandon Knight,PG,Phoenix Suns,1991-12-02
+Jeff Teague,PG,Atlanta Hawks,1988-06-10
+Tyreke Evans,PG,New Orleans Pelicans,1989-09-19
+Mike Conley,PG,Memphis Grizzlies,1987-10-11
+Darren Collison,PG,Sacramento Kings,1987-08-23
+Russell Westbrook,PG,Oklahoma City Thunder,1988-11-12
+Goran Dragic,PG,Miami Heat,1986-05-06
+Jrue Holiday,PG,New Orleans Pelicans,1990-06-12
+Reggie Jackson,PG,Detroit Pistons,1990-04-16
+Michael Carter-Williams,PG,Milwaukee Bucks,1991-10-10
+Brandon Jennings,PG,Orlando Magic,1989-09-23
+Trey Burke,PG,Utah Jazz,1992-11-12
+Rajon Rondo,PG,Sacramento Kings,1986-02-22
+Jarrett Jack,PG,Brooklyn Nets,1983-10-28
+Derrick Rose,PG,Chicago Bulls,1988-10-04
+Avery Bradley,PG,Boston Celtics,1990-11-26
+Mario Chalmers,PG,Memphis Grizzlies,1986-05-19
+Isaiah Thomas,PG,Boston Celtics,1989-02-07
+Deron Williams,PG,Dallas Mavericks,1984-06-26
+Jeremy Lin,PG,Charlotte Hornets,1988-08-23
+James Harden,SG,Houston Rockets,1989-08-26
+Jimmy Butler,SG,Chicago Bulls,1989-09-14
+Klay Thompson,SG,Golden State Warriors,1990-02-08
+Joe Johnson,SG,Miami Heat,1981-06-29
+Kobe Bryant,SG,Los Angeles Lakers,1978-08-23
+Kyle Korver,SG,Atlanta Hawks,1981-03-17
+Wesley Matthews,SG,Dallas Mavericks,1986-10-14
+Dwyane Wade,SG,Miami Heat,1982-01-17
+Trevor Ariza,SG,Houston Rockets,1985-06-30
+Arron Afflalo,SG,New York Knicks,1985-10-15
+Victor Oladipo,SG,Orlando Magic,1992-05-04
+Bradley Beal,SG,Washington Wizards,1993-06-28
+J.J. Redick,SG,Los Angeles Clippers,1984-06-24
+Courtney Lee,SG,Charlotte Hornets,1985-10-03
+Ben McLemore,SG,Sacramento Kings,1993-02-11
+Jamal Crawford,SG,Los Angeles Clippers,1980-03-20
+Kentavious Caldwell-Pope,SG,Detroit Pistons,1993-02-18
+Khris Middleton,SG,Milwaukee Bucks,1991-08-12
+Evan Fournier,SG,Orlando Magic,1992-10-29
+Lou Williams,SG,Los Angeles Lakers,1986-10-27
+Evan Turner,SG,Boston Celtics,1988-10-27
+Gerald Green,SG,Miami Heat,1986-01-26
+Manu Ginobili,SG,San Antonio Spurs,1977-07-28
+O.J. Mayo,SG,Milwaukee Bucks,1987-11-05
+Gerald Henderson,SG,Portland Trail Blazers,1987-12-09
+K.J. McDaniels,SG,Houston Rockets,1993-02-09
+Rasual Butler,SG,San Antonio Spurs,1979-05-23
+Tim Hardaway Jr.,SG,Atlanta Hawks,1992-03-16
+Dion Waiters,SG,Oklahoma City Thunder,1991-12-10
+Tony Wroten,SG,New York Knicks,1993-04-13
+LeBron James,SF,Cleveland Cavaliers,1984-12-30
+Rudy Gay,SF,Sacramento Kings,1986-08-17
+Gordon Hayward,SF,Utah Jazz,1990-03-23
+Carmelo Anthony,SF,New York Knicks,1984-05-29
+Tobias Harris,SF,Detroit Pistons,1992-07-15
+Draymond Green,SF,Golden State Warriors,1990-03-04
+Chandler Parsons,SF,Dallas Mavericks,1988-10-25
+Luol Deng,SF,Miami Heat,1985-04-16
+Andrew Wiggins,SF,Minnesota Timberwolves,1995-02-23
+Kevin Durant,SF,Oklahoma City Thunder,1988-09-29
+Wilson Chandler,SF,Denver Nuggets,1987-05-10
+Danny Green,SF,San Antonio Spurs,1987-06-22
+Thaddeus Young,SF,Brooklyn Nets,1988-06-21
+Giannis Antetokounmpo,SF,Milwaukee Bucks,1994-12-06
+Harrison Barnes,SF,Golden State Warriors,1992-05-30
+Josh Smith,SF,Houston Rockets,1985-12-05
+DeMarre Carroll,SF,Toronto Raptors,1986-07-27
+Paul Pierce,SF,Los Angeles Clippers,1977-10-13
+Nicolas Batum,SF,Charlotte Hornets,1988-12-14
+Amir Johnson,SF,Boston Celtics,1987-05-01
+Solomon Hill,SF,Indiana Pacers,1991-03-18
+Kawhi Leonard,SF,San Antonio Spurs,1991-06-29
+Matt Barnes,SF,Memphis Grizzlies,1980-03-09
+Corey Brewer,SF,Houston Rockets,1986-03-05
+Wesley Johnson,SF,Los Angeles Clippers,1987-07-11
+P.J. Tucker,SF,Phoenix Suns,1985-05-05
+Terrence Ross,SF,Toronto Raptors,1991-02-05
+Robert Covington,SF,Philadelphia 76ers,1990-12-14
+Shabazz Muhammad,SF,Minnesota Timberwolves,1992-11-13
+Jared Dudley,SF,Washington Wizards,1985-07-10
+Anthony Davis,PF,New Orleans Pelicans,1993-03-11
+Blake Griffin,PF,Los Angeles Clippers,1989-03-16
+Pau Gasol,PF,Chicago Bulls,1980-07-06
+LaMarcus Aldridge,PF,San Antonio Spurs,1985-07-19
+Kevin Love,PF,Cleveland Cavaliers,1988-09-07
+Paul Millsap,PF,Atlanta Hawks,1985-02-10
+Chris Bosh,PF,Miami Heat,1984-03-24
+Zach Randolph,PF,Memphis Grizzlies,1981-07-16
+Dirk Nowitzki,PF,Dallas Mavericks,1978-06-19
+Tim Duncan,PF,San Antonio Spurs,1976-04-25
+Derrick Favors,PF,Utah Jazz,1991-07-15
+Greg Monroe,PF,Milwaukee Bucks,1990-06-04
+Serge Ibaka,PF,Oklahoma City Thunder,1989-09-18
+Jared Sullinger,PF,Boston Celtics,1992-03-04
+Markieff Morris,PF,Washington Wizards,1989-09-02
+Jeff Green,PF,Los Angeles Clippers,1986-08-28
+Marcin Gortat,PF,Washington Wizards,1984-02-17
+Jordan Hill,PF,Indiana Pacers,1987-07-27
+Kenneth Faried,PF,Denver Nuggets,1989-11-19
+Ryan Anderson,PF,New Orleans Pelicans,1988-05-06
+Donatas Motiejunas,PF,Houston Rockets,1990-09-20
+Carlos Boozer,PF,Los Angeles Lakers,1981-11-20
+Patrick Patterson,PF,Toronto Raptors,1989-03-14
+Taj Gibson,PF,Chicago Bulls,1985-06-24
+Ed Davis,PF,Portland Trail Blazers,1989-06-05
+Boris Diaw,PF,San Antonio Spurs,1982-04-16
+Marreese Speights,PF,Golden State Warriors,1987-08-04
+David West,PF,San Antonio Spurs,1980-08-29
+Luis Scola,PF,Toronto Raptors,1980-04-30
+Kris Humphries,PF,Atlanta Hawks,1985-02-06
+Nikola Vucevic,C,Orlando Magic,1990-10-24
+Marc Gasol,C,Memphis Grizzlies,1985-01-29
+DeMarcus Cousins,C,Sacramento Kings,1990-08-13
+DeAndre Jordan,C,Los Angeles Clippers,1988-07-21
+Al Horford,C,Atlanta Hawks,1986-06-03
+Tyson Chandler,C,Phoenix Suns,1982-10-02
+Andre Drummond,C,Detroit Pistons,1993-08-10
+Al Jefferson,C,Charlotte Hornets,1985-01-04
+Gorgui Dieng,C,Minnesota Timberwolves,1990-01-18
+Dwight Howard,C,Houston Rockets,1985-12-08
+Jonas Valanciunas,C,Toronto Raptors,1992-05-06
+Enes Kanter,C,Oklahoma City Thunder,1992-05-20
+Tristan Thompson,C,Cleveland Cavaliers,1991-03-13
+Timofey Mozgov,C,Cleveland Cavaliers,1986-07-16
+Roy Hibbert,C,Los Angeles Lakers,1986-12-11
+Kelly Olynyk,C,Boston Celtics,1991-04-19
+Rudy Gobert,C,Utah Jazz,1992-06-26
+Mason Plumlee,C,Portland Trail Blazers,1990-03-05
+Channing Frye,C,Cleveland Cavaliers,1983-05-17
+Nerlens Noel,C,Philadelphia 76ers,1994-04-10
+Brook Lopez,C,Brooklyn Nets,1988-04-01
+Omer Asik,C,New Orleans Pelicans,1986-07-04
+Tyler Zeller,C,Boston Celtics,1990-01-17
+Nene,C,Washington Wizards,1982-09-13
+Joakim Noah,C,Chicago Bulls,1985-02-25
+Henry Sims,C,Brooklyn Nets,1990-03-27
+Steven Adams,C,Oklahoma City Thunder,1993-07-20
+Zaza Pachulia,C,Dallas Mavericks,1984-02-10
+Alex Len,C,Phoenix Suns,1993-06-16
+Chris Kaman,C,Portland Trail Blazers,1982-04-28
