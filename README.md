@@ -46,7 +46,10 @@ Scraping players for position SF
 ```
 
 Export scrape results from database in CSV format into a file named players.csv
-
+Create players.csv:  
+cd ..  
+python scraper.py -s -e  
+ 
 ```
 $ ./scraper.py -e
 $ ls -l players.csv 
